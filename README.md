@@ -114,11 +114,12 @@ $\pi$-Fold is built on [Protenix](https://github.com/bytedance/Protenix), a trai
 
 ## Citing this work
 ```bibtex
-@inproceedings{dang2026pifold,
+@inproceedings{
+  dang2026plausible,
   title={Plausible Biomolecular Structure Prediction via Physics-informed Reinforcement Learning},
-  author={Dang, Tai and Tran, Hieu and Pham, Long-Hung and Truong, Sang T. and Pham, Edward A. and Glenn, Jeffrey S. and Luong, Thang},
-  booktitle={Advances in Neural Information Processing Systems (NeurIPS)},
-  url={https://openreview.net/forum?id=RM7NMWgQlH},
-  year={2026}
+  author={Tai Dang and Hieu Tran and Long-Hung Pham and Sang T. Truong and Edward A Pham and Jeffrey S. Glenn and Thang Luong},
+  booktitle={The Fortieth Annual Conference on Neural Information Processing Systems},
+  year={2026},
+  url={https://openreview.net/forum?id=RM7NMWgQlH}
 }
 ```
